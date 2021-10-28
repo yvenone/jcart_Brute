@@ -1,10 +1,4 @@
 #!/usr/bin/env python
-
-__author__ = "./tokeichun"
-__copyright__ = "Copyright (C) 2021 ./tokeichun"
-__license__ = "https://pastebin.com/u/ToKeiChun"
-__version__ = "1.0"
-
 import random
 import requests
 from bs4 import BeautifulSoup

@@ -5,8 +5,8 @@
 - Python 2.7.12
 
 <b>Python pip Installation Requirements :</b><br>
-<tokeichun/root> $ python -m pip install -r requirements.txt
+<tokeichun/root> # python -m pip install -r requirements.txt
 
 <b>Usage :</b><br>
-<tokeichun/root> $ python run.py
+<tokeichun/root> # python run.py
 [+] Input List : list.txt

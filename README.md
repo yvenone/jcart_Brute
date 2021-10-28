@@ -4,11 +4,9 @@
 - Windows 10 ( Bash Ubuntu 18.04 LTS )
 - Python 2.7.12
 
-<b>Python pip Installation Requirements :</b>
-
-$ python -m pip install -r requirements.txt
+<b>Python pip Installation Requirements :</b><br>
+python -m pip install -r requirements.txt
 
 <b>Usage :</b>
-
-$ python run.py
+python run.py
 [+] Input List : list.txt
